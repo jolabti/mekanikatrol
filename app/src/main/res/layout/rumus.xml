@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget34"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/rumus1"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="28dp"
+        android:layout_y="53dp"
+        android:background="@drawable/rumus1" />
+
+    <Button
+        android:id="@+id/rumus2"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="130dp"
+        android:layout_y="53dp"
+        android:background="@drawable/rumus2" />
+
+    <Button
+        android:id="@+id/rumus3"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="232dp"
+        android:layout_y="53dp"
+        android:background="@drawable/rumus3" />
+
+    <Button
+        android:id="@+id/rumus4"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="28dp"
+        android:layout_y="155dp"
+        android:background="@drawable/rumus4" />
+
+    <Button
+        android:id="@+id/rumus5"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="130dp"
+        android:layout_y="155dp"
+        android:background="@drawable/rumus5" />
+
+    <Button
+        android:id="@+id/rumus6"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="232dp"
+        android:layout_y="155dp"
+        android:background="@drawable/rumus6" />
+
+    <Button
+        android:id="@+id/rumus7"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="28dp"
+        android:layout_y="257dp"
+        android:background="@drawable/rumus7" />
+
+    <Button
+        android:id="@+id/rumus8"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="130dp"
+        android:layout_y="257dp"
+        android:background="@drawable/rumus8" />
+
+    <Button
+        android:id="@+id/rumus9"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="232dp"
+        android:layout_y="257dp"
+        android:background="@drawable/rumus9" />
+
+    <Button
+        android:id="@+id/rumus10"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="28dp"
+        android:layout_y="359dp"
+        android:background="@drawable/rumus10" />
+
+    <Button
+        android:id="@+id/rumus11"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="130dp"
+        android:layout_y="359dp"
+        android:background="@drawable/rumus11" />
+<Button
+        android:id="@+id/rumus12"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_x="232dp"
+        android:layout_y="359dp" 
+        android:background="@drawable/rumus12"/>
+</AbsoluteLayout>

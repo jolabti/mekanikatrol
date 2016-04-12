@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mekanika Katrol</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rumus_segitiga">RumusSegitiga</string>
+    <string name="title_activity_rumus_fisika">Rumus Fisika</string>
+    <string name="title_activity_kalkulator">Kalkulator</string>
+    <string name="title_activity_kalkulator1">Kalkulator</string>
+    <string name="title_activity_kalkulator2">Kalkulator</string>
+    <string name="title_activity_kalkulator3">Kalkulator</string>
+    <string name="title_activity_rumus1">Rumus</string>
+    <string name="title_activity_rumus2">Rumus</string>
+    <string name="title_activity_rumus4">Rumus</string>
+    <string name="title_activity_rumus5">Rumus</string>
+    <string name="title_activity_rumus6">Rumus</string>
+    <string name="title_activity_rumus7">Rumus</string>
+    <string name="title_activity_rumus8">Rumus</string>
+    <string name="title_activity_rumus3">Rumus</string>
+    <string name="title_activity_rumus9">Rumus</string>
+    <string name="title_activity_rumus10">Rumus</string>
+    <string name="title_activity_rumus11">Rumus</string>
+    <string name="title_activity_rumus12">Rumus</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

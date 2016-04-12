@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ayubella.mekanikakatrol"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Kalkulator1"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Kalkulator2"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Kalkulator3"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus2"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus1"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus4"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus5"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus6"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus7"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".Rumus8"
+            android:label="@string/app_name" />
+
+        <activity
+            android:name=".Kalkulator"
+            android:label="@string/title_activity_kalkulator" />
+        <activity
+            android:name=".Rumus3"
+            android:label="@string/title_activity_rumus3" />
+        <activity
+            android:name=".Rumus9"
+            android:label="@string/title_activity_rumus9" />
+        <activity
+            android:name=".Rumus10"
+            android:label="@string/title_activity_rumus10" />
+        <activity
+            android:name=".Rumus11"
+            android:label="@string/title_activity_rumus11" />
+        <activity
+            android:name=".Rumus12"
+            android:label="@string/title_activity_rumus12" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"></activity>
+    </application>
+
+</manifest>
